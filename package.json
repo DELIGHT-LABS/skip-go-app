@@ -35,7 +35,7 @@
     "autoprefixer": "^10.4.17",
     "chain-registry": "^2.0.251",
     "clsx": "^2.1.0",
-    "graz": "file:.graz-poc/graz-approved-scope-topic-resubscribe-v3-1e53f82-0.6.0.tgz",
+    "graz": "file:.graz-poc/graz-approved-scope-trimmed-842a792-0.6.0.tgz",
     "next": "14.2.35",
     "next-seo": "^6.4.0",
     "nuqs": "^1.17.4",
